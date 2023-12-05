@@ -16,3 +16,4 @@ Lab 7:
 
 Lab 9:
     For lab 9 part 2 we had to compare two philosophers' schedules and make sure they weren't eating at the same time. I enjoyed this lab because it helped me understand better how to compare strings. My understanding of using loops was also solidified because we had to loop through each element of the philosopher's schedules to compare them. This lab was difficult for me at first, but once my professor explained it I had a much better understanding of the concepts. 
+    
