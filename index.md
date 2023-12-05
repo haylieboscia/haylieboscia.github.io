@@ -14,7 +14,7 @@ My GitHub page is [https://github.com/haylieboscia](https://github.com/hayliebos
 
 * Lab 7
 
-    For lab 7 I was absent so I worked on this lab alone. It was like a test to see how much I could remember independently without help. Part 1 of this lab was also a continuation or a more complex version of one of the labs that we completed before which was about the Jullian days. With this lab, we added the use of command line arguments and used those as inputs. For part 2 of this lab, it was fun to use if statements to determine when one could part on certain streets. I enjoyed this lab because it was like a logic puzzle.
+    For lab 7 I was absent so I worked on this lab alone. It was like a test to see how much I could remember independently without help. Part 1 of this lab was also a continuation or a more complex version of one of the labs that we completed before which was about the Julian days. With this lab, we added the use of command line arguments and used those as inputs. For part 2 of this lab, it was fun to use if statements to determine when one could part on certain streets. I enjoyed this lab because it was like a logic puzzle.
 
 * Lab 9
 
